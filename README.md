@@ -4,8 +4,7 @@ GCP(GCE)のインスタンスを表示するサンプル
 [ソース](https://github.com/JavaScript-WindowFramework/GCPExplorer)<br>
 [JSW本体](https://github.com/JavaScript-WindowFramework/JSW)<br>
 
-##サンプル
-
+## サンプル
 [https://gcpexplorer.github.croud.jp/](https://gcpexplorer.github.croud.jp/)
 
 ## 作成者
