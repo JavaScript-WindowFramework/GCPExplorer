@@ -1,0 +1,26 @@
+{
+  "name": "gcp_util",
+  "version": "1.0.0",
+  "description": "GoogleCroudPlatform用Utility",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaScript-WindowFramework/JSW.git"
+  },
+  "keywords": [
+    "JSW"
+  ],
+  "author": "空雲",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JavaScript-WindowFramework/JSW/issues"
+  },
+  "homepage": "https://github.com/JavaScript-WindowFramework/JSW#readme",
+  "dependencies": {
+    "@types/gapi.auth2": "0.0.48",
+    "@types/gapi.client": "^1.0.0"
+  }
+}

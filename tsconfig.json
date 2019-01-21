@@ -1,0 +1,22 @@
+{
+	"compilerOptions": {
+		"sourceMap": true,
+		"target": "es5",
+		"module": "es2015",
+		"outDir": "./js/",
+		"rootDir": "./src/",
+		"lib": [
+			"es2015",
+			"dom"
+		],
+	},
+
+	"typedocOptions":{
+		"name": "JSW",
+		"json": "doc/document.json",
+		"mode": "file",
+		"includeDeclarations": false,
+		"hideGenerator": false
+	},
+
+}
